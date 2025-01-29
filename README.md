@@ -8,3 +8,5 @@ Enemy Spawning: Enemies spawn at random positions at the top and move downwards.
 Player Input: Click on enemies to destroy them and gain points.<br/>
 Health System: Lose health if an enemy reaches the bottom of the screen.<br/>
 Score Tracking: The current score and health are displayed in the game window.<br/>
+
+A demo video of the box game can be accessed here: https://drive.google.com/drive/folders/1pSFu5x4yt1tzTpcOzMQbqdjDtUIfSnqR?usp=sharing
